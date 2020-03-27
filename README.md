@@ -39,7 +39,7 @@
      
  ## Tendria que sacar manual 
 
-|  poligono |  ¿porque no lo esta tomando el código? |  
+|  poligono |  razon de remocion |  
 |---|---|
 | A369_164  | Se remueve por alto % de carbono organico en el primer horizonte del suelo |
 | A381_296  | Sierra de la Ventana - no agricola |
