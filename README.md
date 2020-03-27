@@ -15,7 +15,7 @@
 "A357_62"  "A357_63"  "A357_443" "A387_493"
 
 # Luego de la corrida de marzo
-## No corren en la lectura de archivos finales (y no coinciden con los ya eliminados)
+## No los toma el código (y no los estoy considerando)
 
 |  poligono |  ¿porque no lo esta tomando el código? |  
 |---|---|
@@ -39,7 +39,7 @@
      
  ## Tendria que sacar manual 
  
- | A369_164  | Se remueve por alto % de carbono organico en el primer horizonte del suelo |
+| A369_164  | Se remueve por alto % de carbono organico en el primer horizonte del suelo |
 | A381_296  | Sierra de la Ventana - no agricola |
 | A378_284 | Costa de la provincia de Bs As - no agricola |
 | A370_490  | Terreno cerca de un cuerpo de agua - tipo de suelo no cultivable |
