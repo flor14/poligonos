@@ -19,23 +19,24 @@
 
 |  poligono |  ¿porque no lo esta tomando el código? |  
 |---|---|
-| A274_51 | No corrio/ no hay archivos que leer (?) |
-| A331_79 | Corrio con 32 plaguicidas |
-| A295_96 | Corrio con 32 plaguicidas |
-| A188_102 | Corrio con 32 plaguicidas |
-| A353_110 | Corrio con 32 plaguicidas |
-| A345_134 | Corrio con 32 plaguicidas |
-| A349_139 | Corrio con 32 plaguicidas |
-| A256_204 | Corrio con 32 plaguicidas |
-| A304_205 | Corrio con 32 plaguicidas |
-| A376_302 | Corrio con 32 plaguicidas |
-| A378_303 | Corrio con 32 plaguicidas |
-| A316_359 | Corrio con 32 plaguicidas |
-| A303_572 | Corrio con 32 plaguicidas |
-| A348_573 | Corrio con 32 plaguicidas |
-| A329_577 | Corrio con 32 plaguicidas |
-| A240_582 | Corrio con 32 plaguicidas |
-| A379_587 | Faltan archivos en la carpeta / no corrio |
+| A274_51 | No corrio/ no hay archivos que leer (?) | Es el de las lluvias | error en la corrida por mal escritura del path (F: en vez de E:) |
+| A331_79 | Corrio con 32 plaguicidas | Habia 140 outputs! volvi a correr X | corri devuelta |
+| A295_96 | Corrio con 32 plaguicidas | Hay 50 entradas, deberia correr. Eliminado por error? | reagregado |
+| A188_102 | Corrio con 32 plaguicidas | Había un archivo extra, lo borré | reagregado |
+| A353_110 | Corrio con 32 plaguicidas | Habia 72 outputs! volvi a correr X | corri devuelta |
+| A345_134 | Corrio con 32 plaguicidas | Hay 50 entradas, debería correr. Eliminado por error? | reagregado |
+| A349_139 | Corrio con 32 plaguicidas | Hay 50 entradas, debería correr. Eliminado por error? | reagregado |
+| A256_204 | Corrio con 32 plaguicidas | Hay 50 entradas, debería correr. Eliminado por error? | reagregado |
+| A304_205 | Corrio con 32 plaguicidas | Hay 50 entradas, debería correr. Eliminado por error? | reagregado |
+| A376_302 | Corrio con 32 plaguicidas | Hay 50 entradas, debería correr. Eliminado por error? | reagregado |
+| A378_303 | Corrio con 32 plaguicidas | Hay 50 entradas, debería correr. Eliminado por error? | reagregado |
+| A316_359 | Corrio con 32 plaguicidas | Hay 50 entradas, debería correr. Eliminado por error? | reagregado |
+| A303_572 | Corrio con 32 plaguicidas | Hay 50 entradas, debería correr. Eliminado por error? | reagregado |
+| A369_194 | Corrio con 32 plaguicidas | no lo encontré! | Porque ya lo habia sacado por alto porcentaje de carbono orgánico |
+| A348_573 | Corrio con 32 plaguicidas | Hay 50 entradas, debería correr. Eliminado por error? | reagregado |
+| A329_577 | Corrio con 32 plaguicidas | Hay 50 entradas, debería correr. Eliminado por error? | reagregado |
+| A240_582 | Corrio con 32 plaguicidas | Hay 50 entradas, debería correr. Eliminado por error? | reagregado |
+| A379_587 | Faltan archivos en la carpeta / no corrió | errores varios en la copia del archivo, se ve que lo perdi con el tema del disco externo | agregado |
      
  ## Tendria que sacar manual 
 
