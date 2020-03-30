@@ -17,8 +17,8 @@
 # Luego de la corrida de marzo
 ## No los toma el código (y no los estoy considerando)
 
-|  poligono |  ¿porque no lo esta tomando el código? |  
-|---|---|
+|  poligono |  ¿porque no lo esta tomando el código? | que paso? | Desicion |
+|---|---|---|---|
 | A274_51 | No corrio/ no hay archivos que leer (?) | Es el de las lluvias | error en la corrida por mal escritura del path (F: en vez de E:) |
 | A331_79 | Corrio con 32 plaguicidas | Habia 140 outputs! volvi a correr X | corri devuelta |
 | A295_96 | Corrio con 32 plaguicidas | Hay 50 entradas, deberia correr. Eliminado por error? | reagregado |
