@@ -6,7 +6,7 @@
 | A381_296  | Sierra de la Ventana - no agricola |
 | A378_284 | Costa de la provincia de Bs As - no agricola |
 | A370_490  | Terreno cerca de un cuerpo de agua - tipo de suelo no cultivable |
-| A361_304   | frena en el archivo de valores  |   
+| A361_304   | frena en el archivo de valores (Buenos Aires)  |   
 | A309_29 | frena el archivo de valores  |   
 | A309_362 | frena el archivo de valores |
 
@@ -47,4 +47,11 @@
 | A378_284 | Costa de la provincia de Bs As - no agricola |
 | A370_490  | Terreno cerca de un cuerpo de agua - tipo de suelo no cultivable |
 
-## Voy a tener que correr de vuelta/recuperar
+## Algunas que saque por cluster pero puede que vuelvan
+
+|  poligono |  razon de remocion |  
+|---|---|
+| A095_346  | medio arriba de Sta Fe, cerca de mar chiquita. |
+| A353_110  | delta |
+| A188_102 y A185_347 | Dos alargadas de santa fe |
+| A384_77  | cerro cerca de ventania y mdq |
