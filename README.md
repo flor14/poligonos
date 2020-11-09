@@ -53,5 +53,5 @@
 |---|---|
 | A095_346  | medio arriba de Sta Fe, cerca de mar chiquita. |
 | A353_110  | delta |
-| A188_102 y A185_347 | Dos alargadas de santa fe |
+| A188_102 y A185_347 | Dos alargadas de santa fe (REAGREGADAS ANALISIS FINAL) |
 | A384_77  | cerro cerca de ventania y mdq |
